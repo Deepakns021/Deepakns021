@@ -34,4 +34,5 @@ Python, SQL, Power BI, machine learning, and GenAI.
 
 ## Contact
 
+LinkedIn: [linkedin.com/in/deepakns021](https://www.linkedin.com/in/deepakns021)  
 Email: [deepakns021@gmail.com](mailto:deepakns021@gmail.com)
