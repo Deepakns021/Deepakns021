@@ -14,7 +14,7 @@ Python, SQL, Power BI, machine learning, and GenAI.
 
 | Project | Business focus | Tools |
 |---|---|---|
-| [Digital Twin Intelligence Platform](https://github.com/Deepakns021/digital-twin-intelligence-platform) | Predictive maintenance, failure-risk detection, and maintenance advisories for smart manufacturing | Python, SQLite, scikit-learn, Gemini API, Streamlit, Power BI |
+| [Predictive Maintenance for Industrial Machines](https://github.com/Deepakns021/predictive-maintenance-industrial-machines) | Leakage-safe 24-hour failure-risk prediction and maintenance prioritization for industrial machines | Python, XGBoost, scikit-learn, Streamlit, time-series ML |
 | [Technology PMO](https://github.com/Deepakns021/Technology-PMO) | Delivery intelligence, RAID governance, and escalation scoring | Python, SQL, Power BI, GenAI |
 | [Sales & Profitability Analysis](https://github.com/Deepakns021/sales-profitability-analysis) | Discount, regional, and product drivers of retail profitability | Python, SQL, interactive dashboard |
 | [Hospitality Analytics Dashboard](https://github.com/Deepakns021/hospitality-analytics-dashboard) | Customer sentiment, pricing, and regional-performance analysis | Power BI, DAX |
@@ -23,7 +23,7 @@ Python, SQL, Power BI, machine learning, and GenAI.
 ## Toolkit
 
 `Python` · `SQL` · `Power BI` · `DAX` · `Excel` · `pandas` · `scikit-learn` ·
-`Streamlit` · `SQLite` · `GenAI`
+`Streamlit` · `XGBoost` · `SQLite` · `GenAI`
 
 ## How I approach analytics work
 
