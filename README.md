@@ -5,7 +5,7 @@ analytics and decision-support projects that connect business problems with
 Python, SQL, Power BI, machine learning, and GenAI.
 
 My Mechatronics background gives me a practical manufacturing and operations
-lens—especially in my predictive-maintenance work, where model outputs are
+lens especially in my predictive-maintenance work, where model outputs are
 framed as maintenance-prioritization decisions rather than black-box scores.
 
 ## What I focus on
