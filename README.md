@@ -19,6 +19,7 @@ framed as maintenance-prioritization decisions rather than black-box scores.
 | Project | Business focus | Tools |
 | --- | --- | --- |
 | [Predictive Maintenance](https://github.com/Deepakns021/predictive-maintenance-industrial-machines) | 24-hour failure-risk prediction and maintenance prioritization | Python, XGBoost, Streamlit |
+| [Digital Twin Intelligence](https://github.com/Deepakns021/digital-twin-intelligence-platform) | Manufacturing asset health, anomaly detection, and maintenance advisories | Python, SQLite, Streamlit, Power BI |
 | [Technology PMO](https://github.com/Deepakns021/Technology-PMO) | Delivery intelligence, RAID governance, and escalation scoring | Python, SQL, Power BI, GenAI |
 | [Sales & Profitability](https://github.com/Deepakns021/sales-profitability-analysis) | Discount, regional, and product drivers of retail profitability | Python, SQL, dashboard |
 | [Hospitality Analytics](https://github.com/Deepakns021/hospitality-analytics-dashboard) | Customer sentiment, pricing, and regional performance | Power BI, DAX |
@@ -28,6 +29,7 @@ framed as maintenance-prioritization decisions rather than black-box scores.
 ## Selected evidence
 
 - **Predictive Maintenance:** 0.9998 PR-AUC and 98.55% recall on a chronological test split; includes documented leakage safeguards.
+- **Digital Twin Intelligence:** prototype turns 10,000 AI4I telemetry readings into SQLite-backed asset snapshots, risk scores, anomaly signals, and maintenance advisories.
 - **Technology PMO:** governed workflow covering 4 programs, 96 tasks, 33 overdue tasks, and 10 escalated RAID items.
 - **Sales & Profitability:** $286K profit at a 12.5% margin; discounts above 20% were loss-making in the sample.
 - **Hospitality Analytics:** 110-record analysis identified Mumbai as the highest-volume and Hyderabad as the highest-priced market.
