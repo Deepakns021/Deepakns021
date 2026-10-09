@@ -16,16 +16,25 @@ framed as maintenance-prioritization decisions rather than black-box scores.
 
 ## Featured portfolio projects
 
-| Project | Business question | Evidence / result | Tools |
-|---|---|---|
-| [Predictive Maintenance for Industrial Machines](https://github.com/Deepakns021/predictive-maintenance-industrial-machines) | Which machine-hours should be inspected to reduce recorded failures? | Chronological test: **0.9998 PR-AUC**, **98.55% recall**; documented leakage controls and illustrative cost comparison. | Python, XGBoost, scikit-learn, Streamlit |
-| [Technology PMO](https://github.com/Deepakns021/Technology-PMO) | Which delivery risks require governance attention? | Built a governed queue across **4 programs**, **96 tasks**, **33 overdue tasks**, and **10 escalated RAID items**. | Python, SQL, Power BI, GenAI |
-| [Sales & Profitability Analysis](https://github.com/Deepakns021/sales-profitability-analysis) | Where should retail leaders intervene to protect margin? | **$286K profit / 12.5% margin**; discounts above 20% and Tables/Bookcases were loss-making in the sample. | Python, SQL, interactive dashboard |
-| [Hospitality Analytics Dashboard](https://github.com/Deepakns021/hospitality-analytics-dashboard) | How can pricing and customer feedback inform regional decisions? | Analyzed **110 records**; Mumbai was the highest-volume city and Hyderabad the highest-priced niche market. | Power BI, DAX |
-| [Housing Price Analysis](https://github.com/Deepakns021/housing-price-analysis) | How do property features and environmental proximity affect price? | OLS model explains **74.0%** of price variance; proximity coefficient estimates an **~11.2%** price penalty. | Python, OLS regression, Streamlit |
-| [RiskOps AI](https://github.com/Deepakns021/riskops-ai) | How can a human reviewer triage synthetic insider-risk signals safely? | Leakage tests and review safeguards implemented; benchmark metrics are intentionally pending a local run against the official synthetic CERT files. | Python, DuckDB, scikit-learn, Streamlit, n8n |
+| Project | Business focus | Tools |
+| --- | --- | --- |
+| [Predictive Maintenance](https://github.com/Deepakns021/predictive-maintenance-industrial-machines) | 24-hour failure-risk prediction and maintenance prioritization | Python, XGBoost, Streamlit |
+| [Technology PMO](https://github.com/Deepakns021/Technology-PMO) | Delivery intelligence, RAID governance, and escalation scoring | Python, SQL, Power BI, GenAI |
+| [Sales & Profitability](https://github.com/Deepakns021/sales-profitability-analysis) | Discount, regional, and product drivers of retail profitability | Python, SQL, dashboard |
+| [Hospitality Analytics](https://github.com/Deepakns021/hospitality-analytics-dashboard) | Customer sentiment, pricing, and regional performance | Power BI, DAX |
+| [Housing Price Analysis](https://github.com/Deepakns021/housing-price-analysis) | Econometric housing-price analysis and prediction | Python, OLS, Streamlit |
+| [RiskOps AI](https://github.com/Deepakns021/riskops-ai) | Human-reviewed synthetic insider-risk analytics | Python, DuckDB, Streamlit |
 
-> Metrics are project-specific and should be read with the assumptions and limitations documented in each repository. The predictive-maintenance and RiskOps data are synthetic benchmarks, not production results.
+## Selected evidence
+
+- **Predictive Maintenance:** 0.9998 PR-AUC and 98.55% recall on a chronological test split; includes documented leakage safeguards.
+- **Technology PMO:** governed workflow covering 4 programs, 96 tasks, 33 overdue tasks, and 10 escalated RAID items.
+- **Sales & Profitability:** $286K profit at a 12.5% margin; discounts above 20% were loss-making in the sample.
+- **Hospitality Analytics:** 110-record analysis identified Mumbai as the highest-volume and Hyderabad as the highest-priced market.
+- **Housing Price Analysis:** OLS model explains 74.0% of price variance; proximity coefficient estimates an approximately 11.2% price penalty.
+- **RiskOps AI:** evaluation metrics intentionally remain pending until the official synthetic CERT benchmark is run locally.
+
+> Metrics are project-specific and should be read with the assumptions and limitations documented in each repository. Predictive-maintenance and RiskOps data are synthetic benchmarks, not production results.
 
 ## Toolkit
 
